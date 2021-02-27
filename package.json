@@ -2,5 +2,8 @@
   "name": "07_automated-crypto-investing",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kraken-api": "^1.0.1"
+  }
 }
