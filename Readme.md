@@ -4,8 +4,12 @@ Cryptocurrencies are super hot right now! In this repo, you will get a script th
 
 ## How-to
 
-Do not forget to create a .env files with all the environment variables required.
-Please have a look to the .env.example
+Do not forget to create a ```.env``` files with all the environment variables required.
+Please have a look to the ```.env.example``` file!
+
+In order to generate an API key pairs, you have to go to your (confirmed):
+
+> Profile (upper right) > security > API.
 
 ## Youtube videos
 
